@@ -1,0 +1,7 @@
+main: me.songe.messageproviderapi.MessageProviderPlugin
+name: MessageProviderAPI
+author: songe
+version: 0.1
+
+commands:
+  language:
